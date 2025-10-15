@@ -108,7 +108,7 @@
   - Optionally sample small subset from public datasets (COCO, ICDAR) for comparison as mentioned in concept
   - _Requirements: 7.2, 7.3, 10.3_
 
-- [ ] 9. Add error handling and graceful degradation
+- [x] 9. Add error handling and graceful degradation
   - Implement try-catch blocks around camera initialization and frame capture
   - Add fallback behavior when models fail to load (clear error messages)
   - Handle TTS engine failures with system notification on both Windows and macOS
@@ -117,7 +117,7 @@
   - Implement privacy safeguards: no raw frame logging by default, clear user control as per project concept
   - _Requirements: 1.5, 2.5, 3.4, 10.1, 10.5_
 
-- [ ] 10. Create simple evaluation and metrics collection
+- [x] 10. Create simple evaluation and metrics collection
   - Create evaluation.py module with SimpleEvaluator class following project concept evaluation plan
   - Implement measure_detection_latency() to time object detection operations (average and 95th percentile)
   - Add measure_ocr_latency() to time OCR processing from trigger to speech
@@ -126,14 +126,14 @@
   - Implement precision/recall calculation on curated test set for chosen object classes
   - _Requirements: 7.1, 7.2, 7.4, 7.5_
 
-- [ ]* 11. Optional scene classification (if time permits)
+- [x] 11. Optional scene classification (if time permits)
   - Research lightweight scene classification models suitable for CPU
   - Implement basic scene labeling with low update frequency
   - Add scene change detection to avoid repetitive announcements
   - Integrate scene announcements into audio management system
   - _Requirements: 8.1, 8.2, 8.3_
 
-- [ ] 12. Final integration and system testing
+- [x] 12. Final integration and system testing
   - Test complete system with all components integrated on both Windows and macOS if possible
   - Verify performance targets: <500ms detection latency, <10s OCR processing as per design document
   - Conduct manual testing scenarios following project concept: person detection, object detection, OCR reading

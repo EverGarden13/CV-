@@ -50,6 +50,12 @@ ALERT_MESSAGES = {
     'door': 'Door detected'
 }
 
+# Scene classification configuration
+ENABLE_SCENE_CLASSIFICATION = os.getenv('ENABLE_SCENE_CLASSIFICATION', 'true').lower() == 'true'
+SCENE_UPDATE_INTERVAL = 15.0  # Seconds between scene classifications (low frequency)
+SCENE_CONFIDENCE_THRESHOLD = 0.3  # Minimum confidence for scene announcements
+SCENE_ANNOUNCEMENT_FORMAT = "Environment: {scene}"
+
 # Performance settings
 FRAME_SKIP = 3  # Process every 3rd frame for performance
 MAX_DETECTION_LATENCY_MS = 500

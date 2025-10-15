@@ -7,6 +7,7 @@ from ultralytics import YOLO
 import numpy as np
 from typing import List, Optional
 import logging
+from .error_handler import get_error_handler, get_graceful_shutdown
 
 
 def get_largest_detection(detections: List['Detection']) -> Optional['Detection']:
@@ -75,7 +76,7 @@ class ObjectDetector:
     
     def __init__(self, confidence_threshold: float = 0.5, model_name: str = 'yolov8n.pt'):
         """
-        Initialize the object detector.
+        Initialize the object detector with comprehensive error handling.
         
         Args:
             confidence_threshold: Minimum confidence score for detections (default 0.5)
@@ -84,18 +85,47 @@ class ObjectDetector:
         self.confidence_threshold = confidence_threshold
         self.model_name = model_name
         self.model = None
+        self.logger = logging.getLogger(__name__)
+        
+        error_handler = get_error_handler()
         
         try:
             # Initialize YOLOv8n model - will download if not present
             self.model = YOLO(model_name)
-            logging.info(f"YOLOv8 model {model_name} loaded successfully")
+            self.logger.info(f"YOLOv8 model {model_name} loaded successfully")
+            
+            # Register cleanup with shutdown handler
+            shutdown_handler = get_graceful_shutdown()
+            shutdown_handler.register_shutdown_handler(self._cleanup)
+            
         except Exception as e:
-            logging.error(f"Failed to load YOLOv8 model: {e}")
-            raise RuntimeError(f"Could not initialize YOLOv8 model: {e}")
+            self.logger.error(f"Failed to load YOLOv8 model: {e}")
+            
+            # Try error recovery
+            context = {"model_name": model_name}
+            if error_handler.handle_error("model_error", e, context):
+                recovered_model = context.get("recovered_model")
+                if recovered_model:
+                    self.model = recovered_model
+                    self.logger.info("Model recovery successful")
+                else:
+                    raise RuntimeError(f"Could not initialize YOLOv8 model: {e}")
+            else:
+                raise RuntimeError(f"Could not initialize YOLOv8 model: {e}")
+    
+    def _cleanup(self):
+        """Cleanup model resources."""
+        try:
+            if self.model:
+                # YOLO models don't need explicit cleanup, but we can clear the reference
+                self.model = None
+                self.logger.info("Object detector cleaned up")
+        except Exception as e:
+            self.logger.error(f"Error during object detector cleanup: {e}")
     
     def detect(self, frame: np.ndarray) -> List[Detection]:
         """
-        Detect objects in the given frame.
+        Detect objects in the given frame with comprehensive error handling.
         
         Args:
             frame: Input video frame as numpy array (BGR format from OpenCV)
@@ -104,12 +134,14 @@ class ObjectDetector:
             List of Detection objects for target classes above confidence threshold
         """
         if self.model is None:
-            logging.warning("Model not initialized, returning empty detection list")
+            self.logger.warning("Model not initialized, returning empty detection list")
             return []
         
         if frame is None or frame.size == 0:
-            logging.warning("Invalid frame provided, returning empty detection list")
+            self.logger.warning("Invalid frame provided, returning empty detection list")
             return []
+        
+        error_handler = get_error_handler()
         
         try:
             # Run YOLOv8 inference on the frame
@@ -137,11 +169,19 @@ class ObjectDetector:
                             detection = Detection(class_name, float(conf), bbox)
                             detections.append(detection)
             
-            logging.debug(f"Detected {len(detections)} objects above threshold")
+            self.logger.debug(f"Detected {len(detections)} objects above threshold")
             return detections
             
+        except RuntimeError as e:
+            # Model-specific errors
+            self.logger.error(f"Model runtime error during detection: {e}")
+            context = {"model_name": self.model_name, "frame_shape": frame.shape if frame is not None else None}
+            error_handler.handle_error("model_error", e, context)
+            return []
         except Exception as e:
-            logging.error(f"Error during object detection: {e}")
+            self.logger.error(f"Error during object detection: {e}")
+            context = {"model_name": self.model_name, "frame_shape": frame.shape if frame is not None else None}
+            error_handler.handle_error("general_error", e, context)
             return []
     
     def get_largest_detection(self, detections: List[Detection]) -> Optional[Detection]:

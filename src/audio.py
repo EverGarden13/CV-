@@ -7,7 +7,9 @@ import pyttsx3
 import platform
 import threading
 import time
+import logging
 from typing import Dict, Optional
+from .error_handler import get_error_handler, get_graceful_shutdown
 
 
 class AudioManager:
@@ -24,6 +26,9 @@ class AudioManager:
         'door': 'Door detected'
     }
     
+    # Scene announcement message format
+    SCENE_MESSAGE_FORMAT = "Environment: {scene}"
+    
     def __init__(self, speech_rate: int = 200):
         """
         Initialize the AudioManager with platform-specific TTS engine.
@@ -35,11 +40,15 @@ class AudioManager:
         self.speech_rate = speech_rate
         self._is_speaking = False
         self._speech_lock = threading.Lock()
+        self._use_fallback = False
+        self.logger = logging.getLogger(__name__)
         
         self._initialize_engine()
     
     def _initialize_engine(self) -> None:
-        """Initialize pyttsx3 engine with platform-specific settings."""
+        """Initialize pyttsx3 engine with platform-specific settings and error handling."""
+        error_handler = get_error_handler()
+        
         try:
             self.engine = pyttsx3.init()
             
@@ -65,9 +74,28 @@ class AudioManager:
             self.engine.connect('started-utterance', self._on_speech_start)
             self.engine.connect('finished-utterance', self._on_speech_end)
             
+            # Register cleanup with shutdown handler
+            shutdown_handler = get_graceful_shutdown()
+            shutdown_handler.register_shutdown_handler(self.cleanup)
+            
         except Exception as e:
             print(f"Warning: Failed to initialize TTS engine: {e}")
-            self.engine = None
+            
+            # Try error recovery
+            context = {"platform": platform.system()}
+            if error_handler.handle_error("tts_error", e, context):
+                recovered_tts = context.get("recovered_tts")
+                if recovered_tts:
+                    self.engine = recovered_tts
+                    print("TTS engine recovery successful")
+                else:
+                    # Use fallback mode
+                    self.engine = None
+                    self._use_fallback = True
+                    print("Using fallback mode for audio output")
+            else:
+                self.engine = None
+                self._use_fallback = True
     
     def _on_speech_start(self, name: str) -> None:
         """Callback when speech starts."""
@@ -91,7 +119,7 @@ class AudioManager:
     
     def speak_alert(self, object_class: str) -> bool:
         """
-        Speak an alert message for detected objects.
+        Speak an alert message for detected objects with error handling.
         
         Args:
             object_class: The class name of the detected object
@@ -99,28 +127,41 @@ class AudioManager:
         Returns:
             True if alert was spoken successfully, False otherwise
         """
-        if not self.engine:
-            print(f"TTS engine not available. Alert: {object_class}")
-            return False
+        # Get alert message for the object class
+        message = self.ALERT_MESSAGES.get(object_class, f"{object_class} detected")
+        
+        if not self.engine or self._use_fallback:
+            # Use fallback output
+            print(f"AUDIO ALERT: {message}")
+            self.logger.info(f"Audio alert (fallback): {message}")
+            return True
         
         # Don't interrupt if already speaking
         if self.is_busy():
             return False
         
-        # Get alert message for the object class
-        message = self.ALERT_MESSAGES.get(object_class, f"{object_class} detected")
+        error_handler = get_error_handler()
         
         try:
             self.engine.say(message)
             self.engine.runAndWait()
             return True
         except Exception as e:
-            print(f"Error speaking alert: {e}")
+            self.logger.error(f"Error speaking alert: {e}")
+            
+            # Try error recovery
+            context = {"message": message, "type": "alert"}
+            if error_handler.handle_error("tts_error", e, context):
+                # Try fallback
+                print(f"AUDIO ALERT: {message}")
+                self.logger.info(f"Audio alert (fallback after error): {message}")
+                return True
+            
             return False
     
     def speak_text(self, text: str) -> bool:
         """
-        Speak the provided text (typically from OCR).
+        Speak the provided text (typically from OCR) with error handling.
         
         Args:
             text: The text to be spoken
@@ -128,25 +169,79 @@ class AudioManager:
         Returns:
             True if text was spoken successfully, False otherwise
         """
-        if not self.engine:
-            print(f"TTS engine not available. Text: {text}")
-            return False
+        # Clean up text for better speech
+        cleaned_text = text.strip()
+        if not cleaned_text:
+            cleaned_text = "No text found"
+        
+        if not self.engine or self._use_fallback:
+            # Use fallback output
+            print(f"AUDIO TEXT: {cleaned_text}")
+            self.logger.info(f"Audio text (fallback): {cleaned_text[:100]}...")
+            return True
         
         # Don't interrupt if already speaking
         if self.is_busy():
             return False
         
-        # Clean up text for better speech
-        cleaned_text = text.strip()
-        if not cleaned_text:
-            cleaned_text = "No text found"
+        error_handler = get_error_handler()
         
         try:
             self.engine.say(cleaned_text)
             self.engine.runAndWait()
             return True
         except Exception as e:
-            print(f"Error speaking text: {e}")
+            self.logger.error(f"Error speaking text: {e}")
+            
+            # Try error recovery
+            context = {"text": cleaned_text[:100], "type": "text"}
+            if error_handler.handle_error("tts_error", e, context):
+                # Try fallback
+                print(f"AUDIO TEXT: {cleaned_text}")
+                self.logger.info(f"Audio text (fallback after error): {cleaned_text[:100]}...")
+                return True
+            
+            return False
+    
+    def speak_scene(self, scene: str) -> bool:
+        """
+        Speak a scene classification announcement with error handling.
+        
+        Args:
+            scene: The scene/environment label to announce
+            
+        Returns:
+            True if scene was announced successfully, False otherwise
+        """
+        message = self.SCENE_MESSAGE_FORMAT.format(scene=scene)
+        
+        if not self.engine or self._use_fallback:
+            # Use fallback output
+            print(f"AUDIO SCENE: {message}")
+            self.logger.info(f"Audio scene (fallback): {message}")
+            return True
+        
+        # Don't interrupt if already speaking
+        if self.is_busy():
+            return False
+        
+        error_handler = get_error_handler()
+        
+        try:
+            self.engine.say(message)
+            self.engine.runAndWait()
+            return True
+        except Exception as e:
+            self.logger.error(f"Error speaking scene: {e}")
+            
+            # Try error recovery
+            context = {"message": message, "type": "scene"}
+            if error_handler.handle_error("tts_error", e, context):
+                # Try fallback
+                print(f"AUDIO SCENE: {message}")
+                self.logger.info(f"Audio scene (fallback after error): {message}")
+                return True
+            
             return False
     
     def stop_speaking(self) -> None:
@@ -172,14 +267,24 @@ class AudioManager:
                 print(f"Error setting speech rate: {e}")
     
     def cleanup(self) -> None:
-        """Clean up resources."""
-        if self.engine:
-            try:
+        """Clean up resources with comprehensive error handling."""
+        try:
+            if self.engine:
+                self.logger.info("Cleaning up audio manager...")
                 self.stop_speaking()
                 # Give time for cleanup
                 time.sleep(0.1)
-            except Exception as e:
-                print(f"Error during cleanup: {e}")
+                
+                # Try to properly shutdown the engine
+                try:
+                    self.engine.stop()
+                except:
+                    pass  # Ignore errors during shutdown
+                
+                self.engine = None
+                self.logger.info("Audio manager cleanup complete")
+        except Exception as e:
+            self.logger.error(f"Error during audio cleanup: {e}")
 
 
 # Convenience function for quick testing
@@ -200,6 +305,14 @@ def test_audio_manager():
     print("Testing text reading...")
     test_text = "This is a test of the OCR text reading functionality."
     audio_manager.speak_text(test_text)
+    
+    # Test scene announcements
+    print("Testing scene announcements...")
+    test_scenes = ["office", "corridor", "street", "park"]
+    for scene in test_scenes:
+        print(f"Speaking scene: {scene}")
+        audio_manager.speak_scene(scene)
+        time.sleep(1)  # Brief pause between announcements
     
     # Test is_busy functionality
     print("Testing is_busy method...")

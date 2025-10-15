@@ -10,6 +10,7 @@ import logging
 from typing import Optional, Tuple
 import platform
 import os
+from .error_handler import get_error_handler, get_graceful_shutdown
 
 class OCREngine:
     """
@@ -69,7 +70,9 @@ class OCREngine:
         self.logger.info("Using Tesseract from system PATH")
     
     def _test_tesseract(self):
-        """Test if Tesseract is properly installed and accessible."""
+        """Test if Tesseract is properly installed and accessible with error handling."""
+        error_handler = get_error_handler()
+        
         try:
             # Create a simple test image with text
             test_image = np.ones((100, 300, 3), dtype=np.uint8) * 255
@@ -85,12 +88,16 @@ class OCREngine:
                 
         except Exception as e:
             self.logger.error(f"Tesseract test failed: {e}")
-            raise RuntimeError(
-                "Tesseract OCR is not properly installed or configured. "
-                "Please install Tesseract OCR:\n"
-                "Windows: Download from https://github.com/UB-Mannheim/tesseract/wiki\n"
-                "macOS: brew install tesseract"
-            )
+            
+            # Try error recovery
+            context = {"platform": platform.system()}
+            if not error_handler.handle_error("ocr_error", e, context):
+                raise RuntimeError(
+                    "Tesseract OCR is not properly installed or configured. "
+                    "Please install Tesseract OCR:\n"
+                    "Windows: Download from https://github.com/UB-Mannheim/tesseract/wiki\n"
+                    "macOS: brew install tesseract"
+                )
     
     def preprocess_image(self, frame: np.ndarray) -> np.ndarray:
         """
@@ -167,7 +174,7 @@ class OCREngine:
     
     def extract_text(self, frame: np.ndarray) -> Tuple[Optional[str], str]:
         """
-        Extract text from image frame using Tesseract OCR.
+        Extract text from image frame using Tesseract OCR with comprehensive error handling.
         
         Args:
             frame: Input image as numpy array
@@ -177,6 +184,8 @@ class OCREngine:
             - extracted_text: The extracted text if successful, None if failed
             - status_message: Status message for user feedback
         """
+        error_handler = get_error_handler()
+        
         try:
             if frame is None or frame.size == 0:
                 return None, "Invalid image provided"
@@ -201,21 +210,47 @@ class OCREngine:
                 self.logger.info("No valid text found in image")
                 return None, "No readable text found. Try better lighting or move closer to the text."
                 
-        except pytesseract.TesseractNotFoundError:
+        except pytesseract.TesseractNotFoundError as e:
             error_msg = (
                 "Tesseract OCR not found. Please install Tesseract:\n"
                 "Windows: Download from https://github.com/UB-Mannheim/tesseract/wiki\n"
                 "macOS: brew install tesseract"
             )
             self.logger.error(error_msg)
+            
+            # Try error recovery
+            context = {"error_type": "tesseract_not_found"}
+            error_handler.handle_error("ocr_error", e, context)
+            
             return None, "OCR engine not available"
             
         except pytesseract.TesseractError as e:
             self.logger.error(f"Tesseract processing error: {e}")
+            
+            # Try error recovery
+            context = {"error_type": "tesseract_processing", "frame_shape": frame.shape if frame is not None else None}
+            if error_handler.handle_error("ocr_error", e, context):
+                # Retry with simpler configuration
+                try:
+                    simple_config = r'--oem 3 --psm 8'
+                    extracted_text = pytesseract.image_to_string(processed_frame, config=simple_config)
+                    cleaned_text = extracted_text.strip()
+                    
+                    if self.validate_text(cleaned_text):
+                        self.logger.info("OCR recovery successful with simpler config")
+                        return cleaned_text, "Text extracted successfully (recovery mode)"
+                except:
+                    pass
+            
             return None, "OCR processing failed. Try better lighting or clearer text."
             
         except Exception as e:
             self.logger.error(f"Unexpected error during OCR: {e}")
+            
+            # Try error recovery
+            context = {"error_type": "unexpected", "frame_shape": frame.shape if frame is not None else None}
+            error_handler.handle_error("ocr_error", e, context)
+            
             return None, "OCR processing failed. Please try again."
     
     def get_text_confidence(self, frame: np.ndarray) -> float:

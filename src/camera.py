@@ -7,6 +7,7 @@ import cv2
 import numpy as np
 import logging
 from typing import Optional, Tuple
+from .error_handler import get_error_handler, get_graceful_shutdown
 
 
 class CameraInterface:
@@ -29,7 +30,7 @@ class CameraInterface:
     
     def initialize_camera(self, camera_index: int = 0) -> bool:
         """
-        Initialize the camera using OpenCV VideoCapture.
+        Initialize the camera using OpenCV VideoCapture with comprehensive error handling.
         
         Args:
             camera_index (int): Camera index to use (default: 0 for primary camera)
@@ -37,6 +38,8 @@ class CameraInterface:
         Returns:
             bool: True if camera initialized successfully, False otherwise
         """
+        error_handler = get_error_handler()
+        
         try:
             self.camera_index = camera_index
             self.logger.info(f"Attempting to initialize camera with index {camera_index}")
@@ -48,6 +51,14 @@ class CameraInterface:
             if not self.camera.isOpened():
                 self.logger.error(f"Failed to open camera with index {camera_index}")
                 self.camera = None
+                
+                # Try error recovery
+                context = {"camera_index": camera_index}
+                if error_handler.handle_error("camera_error", Exception("Camera not opened"), context):
+                    recovered_index = context.get("recovered_camera_index", camera_index)
+                    if recovered_index != camera_index:
+                        return self.initialize_camera(recovered_index)
+                
                 return False
             
             # Test frame capture to ensure camera is working
@@ -56,29 +67,48 @@ class CameraInterface:
                 self.logger.error("Camera opened but failed to capture test frame")
                 self.camera.release()
                 self.camera = None
+                
+                # Try error recovery
+                context = {"camera_index": camera_index, "issue": "frame_capture_failed"}
+                if error_handler.handle_error("camera_error", Exception("Frame capture failed"), context):
+                    recovered_index = context.get("recovered_camera_index", camera_index)
+                    if recovered_index != camera_index:
+                        return self.initialize_camera(recovered_index)
+                
                 return False
             
             # Set camera properties for better performance
-            self.camera.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
-            self.camera.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
-            self.camera.set(cv2.CAP_PROP_FPS, 30)
+            try:
+                self.camera.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
+                self.camera.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
+                self.camera.set(cv2.CAP_PROP_FPS, 30)
+            except Exception as e:
+                self.logger.warning(f"Could not set camera properties: {e}")
+                # Continue anyway as this is not critical
             
             self.is_initialized = True
             self.logger.info("Camera initialized successfully")
+            
+            # Register cleanup with shutdown handler
+            shutdown_handler = get_graceful_shutdown()
+            shutdown_handler.register_shutdown_handler(self.release)
+            
             return True
             
         except cv2.error as e:
             self.logger.error(f"OpenCV error during camera initialization: {e}")
             self.camera = None
+            error_handler.handle_error("camera_error", e, {"camera_index": camera_index})
             return False
         except Exception as e:
             self.logger.error(f"Unexpected error during camera initialization: {e}")
             self.camera = None
+            error_handler.handle_error("camera_error", e, {"camera_index": camera_index})
             return False
     
     def get_frame(self) -> Optional[np.ndarray]:
         """
-        Capture and return the current webcam frame.
+        Capture and return the current webcam frame with error handling and recovery.
         
         Returns:
             Optional[np.ndarray]: Current frame as numpy array, or None if capture fails
@@ -87,11 +117,24 @@ class CameraInterface:
             self.logger.warning("Camera not initialized. Call initialize_camera() first.")
             return None
         
+        error_handler = get_error_handler()
+        
         try:
             ret, frame = self.camera.read()
             
             if not ret:
                 self.logger.warning("Failed to capture frame from camera")
+                
+                # Try error recovery
+                context = {"camera_index": self.camera_index, "issue": "frame_read_failed"}
+                if error_handler.handle_error("camera_error", Exception("Frame read failed"), context):
+                    # Try to reinitialize camera
+                    if self.initialize_camera(self.camera_index):
+                        # Retry frame capture once
+                        ret, frame = self.camera.read()
+                        if ret and frame is not None:
+                            return frame
+                
                 return None
             
             if frame is None:
@@ -102,9 +145,11 @@ class CameraInterface:
             
         except cv2.error as e:
             self.logger.error(f"OpenCV error during frame capture: {e}")
+            error_handler.handle_error("camera_error", e, {"camera_index": self.camera_index})
             return None
         except Exception as e:
             self.logger.error(f"Unexpected error during frame capture: {e}")
+            error_handler.handle_error("camera_error", e, {"camera_index": self.camera_index})
             return None
     
     def release(self) -> None:
