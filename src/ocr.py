@@ -24,7 +24,14 @@ class OCREngine:
         
         Args:
             min_text_length: Minimum length for valid text (default: 3 characters)
+        
+        Raises:
+            ValueError: If min_text_length is not positive
         """
+        # Validate min_text_length
+        if min_text_length <= 0:
+            raise ValueError(f"min_text_length must be positive, got {min_text_length}")
+        
         self.min_text_length = min_text_length
         self.logger = logging.getLogger(__name__)
         

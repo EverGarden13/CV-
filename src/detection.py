@@ -81,7 +81,14 @@ class ObjectDetector:
         Args:
             confidence_threshold: Minimum confidence score for detections (default 0.5)
             model_name: YOLOv8 model variant to use (default 'yolov8n.pt' for nano)
+        
+        Raises:
+            ValueError: If confidence_threshold is not between 0 and 1
         """
+        # Validate confidence threshold
+        if not 0.0 <= confidence_threshold <= 1.0:
+            raise ValueError(f"confidence_threshold must be between 0 and 1, got {confidence_threshold}")
+        
         self.confidence_threshold = confidence_threshold
         self.model_name = model_name
         self.model = None

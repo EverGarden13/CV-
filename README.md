@@ -120,6 +120,10 @@ visionmate-lite/
 ├── test_data/             # Test datasets
 │   ├── detection/         # Object detection test images
 │   └── ocr/              # OCR test images
+├── tests/                 # Unit and integration tests
+├── demos/                 # Demo scripts and examples
+├── scripts/              # Utility and validation scripts
+├── docs/                 # Documentation and reports
 ├── evaluation/           # Performance evaluation scripts
 ├── models/              # Model files (auto-downloaded)
 ├── config.py           # Configuration settings
@@ -188,6 +192,16 @@ python main.py --test-mode
 ## License
 
 This project is developed for educational purposes as part of COMP5523 coursework.
+
+## Quick Navigation
+
+- 📚 **[Documentation](docs/)** - All project reports, guides, and technical docs
+- 🎮 **[Demos](demos/)** - Interactive demonstrations and examples  
+- 🧪 **[Tests](tests/)** - Test suite and validation scripts
+- 🔧 **[Scripts](scripts/)** - Utility and evaluation scripts
+- 💻 **[Source Code](src/)** - Core application modules
+- 📊 **[Test Data](test_data/)** - Sample images for testing
+- 📈 **[Evaluation](evaluation/)** - Performance evaluation tools
 
 ## Support
 

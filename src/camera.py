@@ -37,7 +37,14 @@ class CameraInterface:
             
         Returns:
             bool: True if camera initialized successfully, False otherwise
+        
+        Raises:
+            ValueError: If camera_index is negative
         """
+        # Validate camera index
+        if camera_index < 0:
+            raise ValueError(f"camera_index must be non-negative, got {camera_index}")
+        
         error_handler = get_error_handler()
         
         try:
