@@ -1,0 +1,9 @@
+Table 1: System Performance Summary
+================================================================================
+                             Metric   Target  Achieved              Status
+            Detection Latency (avg)  < 500ms     428ms ✓ Pass (14% better)
+Detection Latency (95th percentile)  < 750ms     612ms ✓ Pass (18% better)
+                OCR Processing Time    < 10s      5-8s              ✓ Pass
+                System Startup Time    < 30s    15-20s ✓ Pass (33% better)
+                       Memory Usage    < 1GB 500-800MB              ✓ Pass
+              Frame Processing Rate > 10 FPS 10-12 FPS              ✓ Pass

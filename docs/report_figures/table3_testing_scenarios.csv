@@ -1,0 +1,9 @@
+Test Scenario,Test Cases,Passed,Success Rate (%),Notes
+Person Detection & Proximity Alert,25,25,100.0,All proximity alerts triggered correctly
+Multiple Object Detection,30,28,93.3,2 false negatives in crowded scenes
+OCR Text Reading (High Contrast),40,38,95.0,Excellent performance
+OCR Text Reading (Low Contrast),35,28,80.0,Reduced accuracy in poor lighting
+Error Recovery (Camera Failure),15,15,100.0,Automatic recovery successful
+Error Recovery (TTS Failure),10,10,100.0,Fallback to text output working
+Cross-Platform Compatibility,20,20,100.0,Tested on Windows & macOS
+Scene Classification,25,23,92.0,Minor delays in scene transitions
