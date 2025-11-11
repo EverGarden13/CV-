@@ -47,10 +47,13 @@ Thumbs.db
 # Project specific
 models/*.pt
 models/*.onnx
-test_data/detection/*.jpg
-test_data/detection/*.png
-test_data/ocr/*.jpg
-test_data/ocr/*.png
+test_data/detection/**/*.jpg
+test_data/detection/**/*.png
+test_data/ocr/**/*.jpg
+test_data/ocr/**/*.png
+test_data/scenes/**/*.jpg
+test_data/scenes/**/*.png
+evaluation_results.json
 logs/
 debug_frames/
 *.log
