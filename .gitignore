@@ -47,6 +47,8 @@ Thumbs.db
 # Project specific
 models/*.pt
 models/*.onnx
+*.pt
+*.onnx
 test_data/detection/**/*.jpg
 test_data/detection/**/*.png
 test_data/ocr/**/*.jpg
