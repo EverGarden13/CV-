@@ -1,0 +1,8 @@
+Table 4: OCR Performance Metrics
+================================================================================
+                Metric Value                                    Notes
+Total Images Evaluated   100                     Standard OCR dataset
+ Successful Processing   100      All images processed without errors
+         Text Detected    44         Images with valid text extracted
+      No Text Detected    56 Images with no text or failed extraction
+      Success Rate (%) 44.0%  Percentage of images with text detected

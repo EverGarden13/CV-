@@ -1,0 +1,12 @@
+# Core dependencies with pinned versions for reproducibility
+ultralytics==8.0.196
+opencv-python==4.8.1.78
+pytesseract==0.3.10
+pyttsx3==2.90
+numpy==1.24.3
+pillow==10.0.1
+
+# Optional dependencies for scene classification
+# Uncomment if you want scene classification feature
+# torch==2.0.1
+# torchvision==0.15.2

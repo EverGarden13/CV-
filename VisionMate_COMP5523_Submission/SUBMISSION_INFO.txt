@@ -1,0 +1,4926 @@
+VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=VisionMate-Lite - COMP5523 Project Submission
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+
+Project: VisionMate-Lite - A Lightweight Assistive Vision System
+Course: COMP5523 Computer Vision and Image Processing
+Date: December 2, 2025
+Project Type: Solo Project
+
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+QUICK START
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+
+1. Read SETUP_INSTRUCTIONS.md for detailed setup
+2. Install dependencies: pip install -r requirements.txt
+3. Install Tesseract OCR (see SETUP_INSTRUCTIONS.md)
+4. Run validation: python scripts/validate_system.py
+5. Start application: python main.py
+
+OR use quick start scripts:
+  - Windows: quickstart.bat
+  - macOS/Linux: ./quickstart.sh
+
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+SUBMISSION CONTENTS
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+
+Core Files:
+  - main.py (application entry point)
+  - config.py (configuration)
+  - requirements.txt (dependencies)
+  - SETUP_INSTRUCTIONS.md (setup guide)
+  - SUBMISSION_README.md (submission overview)
+
+Source Code:
+  - src/ (all source modules)
+
+Documentation:
+  - docs/COMP5523_Project_Report_REFINED.md (8-page report)
+  - docs/VisionMate-Lite Project Presentation.pdf (slides)
+  - docs/USAGE_GUIDE.md (user guide)
+
+Evaluation:
+  - evaluation/evaluation_results.json (metrics)
+  - evaluation/ocr_evaluation_results.json (OCR results)
+  - docs/report_figures/ (generated figures)
+
+Scripts:
+  - scripts/validate_system.py (system check)
+  - scripts/simple_evaluation.py (evaluation)
+  - scripts/evaluate_ocr.py (OCR evaluation)
+  - scripts/generate_report_figures.py (figure generation)
+
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+GRADING MATERIALS
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+
+1. Project Report: docs/COMP5523_Project_Report_REFINED.md
+2. Presentation: docs/VisionMate-Lite Project Presentation.pdf
+3. Evaluation Results: evaluation/evaluation_results.json
+4. Source Code: src/ directory
+
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+SYSTEM REQUIREMENTS
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+
+- Python 3.8+
+- Webcam
+- Speakers/headphones
+- 4GB RAM minimum
+- Tesseract OCR
+- Internet (for initial setup only)
+
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+EXPECTED PERFORMANCE
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+- Detection Latency: ~428ms
+- OCR Processing: 5-8 seconds
+- System Startup: 15-20 seconds
+- Detection Accuracy: 82% precision, 75% recall
+- OCR Success Rate: 44% on standard dataset
+
+=
+
+For detailed information, see SUBMISSION_README.md
+For setup help, see SETUP_INSTRUCTIONS.md
+
+Thank you for evaluating VisionMate-Lite!

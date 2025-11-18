@@ -163,7 +163,8 @@
   - Include APA-formatted references section (unlimited pages)
   - _Requirements: 7.1, 7.4, 7.5, 9.3, 9.4_
 
-- [ ] 14. Create presentation slides and demonstration video
+- [x] 14. Create presentation slides and demonstration video
+
   - Create 15-minute presentation slides covering system overview and capabilities
   - Record comprehensive demonstration video showcasing VisionMate-Lite functionality
   - Include slides on task settings, challenges, and methodologies used
@@ -177,7 +178,10 @@
   - Export final presentation slides as PDF and video in standard format (MP4)
   - _Requirements: 1.1, 1.2, 2.1, 2.2, 4.1, 7.4, 9.4_
 
-- [ ] 15. Create COMP5523 submission package for grader functionality
+- [x] 15. Create COMP5523 submission package for grader functionality
+
+
+
   - Create submission directory structure following COMP5523 requirements
   - Include ALL essential project files: complete source code (src/), main.py, config.py, requirements.txt
   - Package project documentation: comprehensive README.md with setup guide, final project report (8-page PDF)
